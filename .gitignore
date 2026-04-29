@@ -1,5 +1,7 @@
-data/*.csv
-!data/sample_reviews.csv
-venv/venv/
 venv/
-venv/
+__pycache__/
+*.pkl
+.DS_Store
+*.pyc
+*.dylib
+models/
