@@ -1,2 +1,3 @@
 data/*.csv
 !data/sample_reviews.csv
+venv/venv/
